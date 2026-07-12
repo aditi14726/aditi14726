@@ -120,14 +120,13 @@ I am a highly driven **Computer Science & Engineering undergraduate specializing
 
 ---
 
-
 ---
 
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=aditi14726&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=aditi14726&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditi14726&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditi14726&theme=tokyonight" alt="Top Languages" width="48%"/>
 </div>
 
 <br/>
@@ -137,6 +136,7 @@ I am a highly driven **Computer Science & Engineering undergraduate specializing
 </div>
 
 ---
+
 
 ## 🌱 Currently Exploring
 
