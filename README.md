@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-I am a highly driven **Computer Science & Engineering undergraduate specializing in Cyber Security** at UPES Dehradun. Anchored by a **9.42 CGPA**, my engineering philosophy focuses on building deterministic systems, auditing application security layers, and mitigating cryptographic and software vulnerabilities before they hit production. 
+I am a highly driven **Computer Science & Engineering undergraduate specializing in Cyber Security** at UPES Dehradun. My engineering philosophy focuses on building deterministic systems, auditing application security layers, and mitigating cryptographic and software vulnerabilities before they hit production. 
 
 *   **🎓 Education:** B.Tech in Computer Science & Engineering (Cyber Security), UPES Dehradun (2024 - 2028)
 *   **🧠 Engineering Mindset:** DevSecOps advocate, combining rigorous computer science fundamentals with offensive/defensive engineering practices.
@@ -121,17 +121,19 @@ I am a highly driven **Computer Science & Engineering undergraduate specializing
 ---
 
 
+---
+
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi14726&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi14726&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=aditi14726&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=aditi14726&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aditi14726&theme=tokyonight" alt="GitHub Streak" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditi14726&theme=tokyonight" alt="GitHub Profile Summary" width="98%"/>
 </div>
 
 ---
